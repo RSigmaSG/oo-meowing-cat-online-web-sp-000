@@ -5,7 +5,7 @@ class Cat
   
   Cat.meow do
     
-    puts ""
+    puts "meow!"
     
   end
   
