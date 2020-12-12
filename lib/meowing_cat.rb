@@ -1,5 +1,5 @@
 ## code your solution here. 
-class cat
+class Cat
   
   attr_reader :name
   attr_writer :name
